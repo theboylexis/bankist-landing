@@ -15,7 +15,7 @@ A modern, clean, and interactive landing page for a minimalist banking service. 
 
 ## Demo
 
-[Live Demo Link](https://bankist-project-lexis.netlify.app/) (Add your live demo URL here if hosted)
+[Live Demo Link](https://bankist-project-lexis.netlify.app/) 
 
 
 ## Installation
